@@ -1,0 +1,7 @@
+C:\Users\annel\source\repos\Testi1\Testi1\bin\Debug\Testi1.exe.config
+C:\Users\annel\source\repos\Testi1\Testi1\bin\Debug\Testi1.exe
+C:\Users\annel\source\repos\Testi1\Testi1\bin\Debug\Testi1.pdb
+C:\Users\annel\source\repos\Testi1\Testi1\obj\Debug\Testi1.csproj.AssemblyReference.cache
+C:\Users\annel\source\repos\Testi1\Testi1\obj\Debug\Testi1.csproj.CoreCompileInputs.cache
+C:\Users\annel\source\repos\Testi1\Testi1\obj\Debug\Testi1.exe
+C:\Users\annel\source\repos\Testi1\Testi1\obj\Debug\Testi1.pdb
